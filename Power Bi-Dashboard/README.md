@@ -1,17 +1,14 @@
-# Excel Dashboard Project
+# Power BI Dashboard Project
 
 ## Project Overview
-This project focuses on analyzing data
-using Microsoft Excel and presenting
-insights through an interactive
-dashboard.
+This project showcases and interactive dashboard 
+created using Microsoft Power Bi.
 
 ## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts
+- Microsoft Power BI
+- Data Analysis
 - Data Visualization
 
 ## Dashboard Preview
-The dashboard image will be displayed
-here.
+! [Power Bi Dashboard]
+(powerbi-dashboard.png)
